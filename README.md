@@ -9,7 +9,6 @@ For example if the user put in 3 for the number of columns and 3 for number of r
 
 | 0      | 1 | 2|
 |---|---|---|
-
 | 10 | 11|12
 | 20  | 21       | 22
 
