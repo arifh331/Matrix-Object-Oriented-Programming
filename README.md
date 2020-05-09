@@ -13,7 +13,7 @@ For example if the user put in 3 for the number of columns and 3 for number of r
 | 20 | 21 | 22 |
 
 
-Then the user is prompted on what he would like to do to his matrix. Several options are available:\
+Then the user is prompted on what he would like to do to his matrix. Several options are available:
 
 T transpose   - Rows become colums (and vice versa)\
 C columnSum   - Caclulate the sum of the values in each column\
@@ -21,7 +21,7 @@ R reverseRows - Reverse all elements in every row of the matrix\
 P PrintMatrix - This will print the original matrix\
 AR AddReverse - Add the reverse to your Original Matrix\
 AN AddNumber  - Add a Number to each value in the Matrix\
-Q quit        - Exit the program\
+Q quit        - Exit the program
 
 All of these choices except Q for quiting the program are functions executed from the matrix class which the user created an 
 object of in the beginner. After each transformation the user is given this option choice on the console and his/her answer 
