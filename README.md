@@ -7,11 +7,10 @@ row is the coloumns of the row above with 10 added to it.
 
 For example if the user put in 3 for the number of columns and 3 for number of rows you would get a matrix:
 
-| 0  | 1  | 2  |   |   |
-|----|----|----|---|---|
-| 10 | 11 | 12 |   |   |
-| 20 | 21 | 22 |   |   |
-|    |    |    |   |   |
+| 0  | 1  | 2  |
+|----|----|----|
+| 10 | 11 | 12 |
+| 20 | 21 | 22 |
 
 
 Then the user is prompted on what he would like to do to his matrix. Several options are available:
